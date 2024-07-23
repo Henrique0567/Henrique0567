@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Henrique
-- 👀 I’m interested in ...
+- 👀 I am interested in learning how to develop systems and websites, in addition to looking for job openings in the area.
 - 🌱 I'm currently learning how to develop websites and studying Javascripty
 - 💞️ I'm looking to collaborate on new projects and I have an idea for creating a system, I'm looking for people who are willing to talk about it.
 - 📫 You can contact me through my Linkedin: https://www.linkedin.com/in/henrique-campos-marques/
